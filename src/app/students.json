@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "Muhammad Ali",
+    "src": "student 1",
+    "shift": "evening",
+    "cgpa": 3.14,
+    "discipline": "CS"
+  },
+  {
+    "id": "2",
+    "name": "Ahsan Raza",
+    "src": "student 2",
+    "shift": "morning",
+    "cgpa": 3.65,
+    "discipline": "SE"
+  },
+  {
+    "id": "3",
+    "name": "Sara Khan",
+    "src": "student 3",
+    "shift": "evening",
+    "cgpa": 3.45,
+    "discipline": "IT"
+  },
+  {
+    "id": "4",
+    "name": "Usman Malik",
+    "src": "student 4",
+    "shift": "morning",
+    "cgpa": 2.98,
+    "discipline": "CS"
+  },
+  {
+    "id": "5",
+    "name": "Hira Ahmed",
+    "src": "student 5",
+    "shift": "evening",
+    "cgpa": 3.82,
+    "discipline": "AI"
+  }
+]
